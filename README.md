@@ -1,7 +1,7 @@
 # 3DBuildableHull
 
 
-[![Build Status](https://travis-ci.org/IGNF/3DBuildableHull.svg?branch=master)](https://travis-ci.org/SimPLU3D/3DBuildableHull)
+[![Build Status](https://travis-ci.org/SimPLU3D/3DBuildableHull.svg?branch=master)](https://travis-ci.org/SimPLU3D/3DBuildableHull)
 
 ## Generation of hulls and buildings from urban regulation
 
