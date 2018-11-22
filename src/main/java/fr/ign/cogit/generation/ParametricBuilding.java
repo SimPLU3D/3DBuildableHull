@@ -227,7 +227,7 @@ public class ParametricBuilding extends Building implements Cloneable {
 			iMS.addAll(FromGeomToSurface.convertGeom(f.getGeom()));
 		}
 
-		this.setFacade(lF);
+		this.setWallSurfaces(lF);
 		this.setGeom(iMS);
 
 		return true;
